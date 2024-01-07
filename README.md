@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bryanStv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bryanStv/bryanStv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, Soy Bryan Oyola
+- 👀 Estoy interesado en la programación y por el momento estoy estudiando para programador web.
+- 🌱 Actualmente estoy aprendiendo java, html y las bases de las bases de datos. También me interesa mucho el ecosistema Linux y "cacharreo" bastante con eso.
+- 🚗 En proceso de obtener el carnet de conducir.
